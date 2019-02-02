@@ -2,7 +2,7 @@
 
 The notebook was used to train a deep learning image classifier to classify images of flowers into 102 classes. This notebook is modifed to be ***self-contained to work in colab***. 
 
-## Accuracy on training set
+## Accuracy on test set
    2019-01-06: 92%
 
 ## Follow these steps to use the notebook in colab
